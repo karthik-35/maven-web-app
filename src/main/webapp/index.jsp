@@ -6,7 +6,7 @@
 </head>
 <body>
     <h1>Hi, I'm Karthik!</h1>
-    <p>Welcome to my very first website.</p>
+    <p>Welcome to my very very first website.</p>
 
     <p>I'm a Computer Science student who loves exploring technology, finance, 
     and building cool projects. I'm also interested in trading, problem-solving, 
