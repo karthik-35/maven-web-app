@@ -1,9 +1,18 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>My WebApp</title>     
+    <meta charset="UTF-8">
+    <title>Karthik's Website</title>
 </head>
 <body>
-  <h1>Hello from my app!</h1>    
+    <h1>Hi, I'm Karthik!</h1>
+    <p>Welcome to my very very first website.</p>
+
+    <p>I'm a Computer Science student who loves exploring technology, finance, 
+    and building cool projects. I'm also interested in trading, problem-solving, 
+    and learning new skills every day.</p>
+
+    <p>When I'm not coding, you can find me working out, experimenting with new ideas, 
+    or enjoying good food with friends.</p>
 </body>
 </html>
