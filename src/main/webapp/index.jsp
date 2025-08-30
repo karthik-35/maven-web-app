@@ -5,7 +5,7 @@
     <title>Karthik's Website</title>
 </head>
 <body>
-    <h1>Hi, I'm Karthik!</h1>
+    <h1>Hi, I'm Karthikeya!</h1>
     <p>Welcome to my very very first website.</p>
 
     <p>I'm a Computer Science student who loves exploring technology, finance, 
