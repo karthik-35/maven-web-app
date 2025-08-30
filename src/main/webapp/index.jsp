@@ -8,7 +8,7 @@
     <h1>Hi, I'm Karthikeya!</h1>
     <p>Welcome to my very very first website.</p>
 
-    <p>I'm a Computer Science student who loves exploring technology, finance, 
+    <p>I'm a Computer Science student who loves exploring technologyy, financee, 
     and building cool projects. I'm also interested in trading, problem-solving, 
     and learning new skills every day.</p>
 
