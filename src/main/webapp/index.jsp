@@ -6,7 +6,7 @@
 </head>
 <body>
     <h1>Hi, I'm Karthikeya!</h1>
-    <p>Welcome to my very first website.</p>
+    <p>Welcome to my very first Website.</p>
 
     <p>I'm a Computer Science student who loves exploring technologyy, financee, 
     and building cool projects. I'm also interested in trading, problem-solving, 
